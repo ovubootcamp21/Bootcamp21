@@ -1,39 +1,38 @@
 # **Takım İsmi**
 
-Takım X
+OVU21
 
-# Ürün İle İlgili Bilgiler
+# Oyun İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Ali AK : Product Owner/Designer @AliAk330
+- Mehmet Kudsi ODAMAN : Scrum Master/Developer @mehmetkudsiodaman
+- Caner KARAMAN : Team Member/Developer @cnrk55
+- İsmail Haakı BAŞOĞLU : Team Member/Developer @IsmailHakkiBasoglu
+- Pınar BENGÜ : Team Member/Designer @Alpheratzx
 
-## Ürün İsmi
+## Oyun İsmi
 
---Movie App--
+--???--
 
-## Ürün Açıklaması
+## Oyun Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
 
-## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+## Oyun Özellikleri
+
+
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
 
-## Product Backlog URL
+---
+
+
+
+---
+## Sample Product Backlog URL
 
 [Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
 
@@ -81,5 +80,7 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 ---
 
 # Sprint 3
+
+---
 
 ---
