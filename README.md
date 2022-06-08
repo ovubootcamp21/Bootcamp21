@@ -23,14 +23,19 @@ OVU's ADVENTURE
 ## Oyun Özellikleri
 
 -Oynanışı kolay,
+
 -Mobile uyumlu dokunmatik ekranlarda kolayca oynanabilen, 
+
 -Altın toplama ve düşman yenme sistemi üzerine kurulmuş rekabetçi macera oyunu.
 
 ## Hedef Kitle
 
 -Tüm yaş kategorilerini destekleyen
+
 -Hedef Kitle 5-12 yaş arası olan 
+
 -Mobil oyunları seven 
+
 -Macera ve platform oyun tarzlarına ilgisi olan
 
 
