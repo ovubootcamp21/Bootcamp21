@@ -42,15 +42,19 @@ https://trello.com/b/HWnsY0nl/akademi
 
 # Sprint 1
 
-•	Sprint Notları: Product backlog item'lara tıklandığında görevlerin detayları okunabilir.
+## Sprint Notları: 
+Product backlog item'lara tıklandığında görevlerin detayları okunabilir.
 
-•	Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+## Sprint içinde tamamlanması tahmin edilen puan: 
+100 Puan
 
-•	Puan tamamlama mantığı: Proje boyunca toplam tamamlanması gereken 320 puanlık backlog bulunmaktadır. Sprintlerin içerik ağırlığına göre 1. Sprinte 100 puan verdik.
+## Puan tamamlama mantığı: 
+Proje boyunca toplam tamamlanması gereken 320 puanlık backlog bulunmaktadır. Sprintlerin içerik ağırlığına göre 1. Sprinte 100 puan verdik.
 
-•	Backlog düzeni ve Story seçimleri: Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmış ve tamamlanmıştır.
+## Backlog düzeni ve Story seçimleri: 
+Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmış ve tamamlanmıştır.
 
-Sprint Görev ve Puanları:
+## Sprint Görev ve Puanları:
 
 •	Grup üyeleri tanışma toplantısı, görev dağılımı ve iletişim kanalları seçimi (10p)
 
@@ -73,24 +77,26 @@ Sprint Görev ve Puanları:
 Daily Scrum: [sprint 1 konuşmalar.docx](https://github.com/Oyun-ve-Uygulama-Akademisi-Bootcamp-21/Bootcamp21/files/8862524/sprint.1.konusmalar.docx)
 
 
-•	Sprint Review:
+## 	Sprint Review:
 
 Takım üyeleri olarak slack üzerinden tanıştık hızlı ve sıcak bir tanışma, kaynaşma oldu.  Discord ve whatsapp üzerinden iletişimi kesmedik takım üyeleri arasında görev dağılımı yaptık ve arkadaşlarımızla müsait oldukça toplanmaya çalıştık iletişimi kesmedik.
 
 
-•	Sprint Retrospective: 
+## 	Sprint Retrospective: 
 Sprint bitiminde ilk sprint hakkında değerlendirmelerde bulunduk herkes verilen görevleri eksiksiz olarak bitirdi. Hedef puanımız olan toploam 100 puanlık görevleri tamamladık. Grup üyeleri olarak iletişim ve ilerlememizden dolayı mutlu ve tatmin olduğumuzu belirttik. 
 
 
-Sprint 2
-•	Sprint Notları:
+## Sprint 2
+
+## 	Sprint Notları:
 
 •	User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 •	Sprint sonunda ulaşılması belenilen puana ulaşıldı ve verilen görevler tüm takım üyeleri tarafından başarıyla tamamlandı.
 
-•	Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
+## Sprint içinde tamamlanması tahmin edilen puan: 
+120 Puan
 
-•	Sprint Görev ve Puanları:
+## Sprint Görev ve Puanları:
 
 •	Oyun giriş ve kapanış ekranları yapımı (10p)
 
@@ -110,9 +116,11 @@ Sprint 2
 ![sprint 2](https://user-images.githubusercontent.com/104374444/172643616-7c1e627c-8588-44e1-a9ad-c10c7e99bf0d.png)
 
 
-•	Puan tamamlama mantığı: Proje boyunca toplam tamamlanması gereken 320 puanlık backlog bulunmaktadır. Sprintlerin içerik ağırlığına göre 2. Sprinte 120 puan verdik.
+## 	Puan tamamlama mantığı: 
+Proje boyunca toplam tamamlanması gereken 320 puanlık backlog bulunmaktadır. Sprintlerin içerik ağırlığına göre 2. Sprinte 120 puan verdik.
 
-•	Backlog düzeni ve Story seçimleri: Backlog düzeni ve storyler birbirlerini tamamlayacak şekilde iş akışına uygun şekilde düzenlenmiştir. Backloglar işi yapacak kişilere atanmış ve içerisine yapılan işlerle ilgili ayrıntılar eklenmiştir.
+## 	Backlog düzeni ve Story seçimleri: 
+Backlog düzeni ve storyler birbirlerini tamamlayacak şekilde iş akışına uygun şekilde düzenlenmiştir. Backloglar işi yapacak kişilere atanmış ve içerisine yapılan işlerle ilgili ayrıntılar eklenmiştir.
 -Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello üzerindeki tabloda iş akışına göre sıralama yapılmıştır.
 
 ![Oyundan GÖrüntüler](https://user-images.githubusercontent.com/104374444/172643786-9fa29427-3fa9-494b-b411-1eecd84bf6a2.jpeg)
@@ -121,29 +129,33 @@ Sprint 2
 
 
 
-•	Daily Scrum: 
+## Daily Scrum: 
 
 [sprint 2 konuşmalar.docx](https://github.com/Oyun-ve-Uygulama-Akademisi-Bootcamp-21/Bootcamp21/files/8862532/sprint.2.konusmalar.docx)
 
-•	Sprint Review:
+## Sprint Review:
 
 2. Sprint toplantımızı yaptık, yapılacak işler ve görevleri belirleyip kişilere atadık. Oyun içi görseller, müzik ve diğer çevre tasarımları kararlaştırıldı. Yönlendirme işlemleri konuşuldu.
 
-•	Sprint Retrospective
+## Sprint Retrospective
 
 Verilen görevler eksiksiz yerine getirildi. Bu sprint planlama olarak da diğer sprintlere göre daha ağır ve yoğundu ancak arkadaşlarımızın gayretiyle 120 puanlık görevleri bitirdik. İletişim konusunda daha müsait olmamız gerektiğini kararlaştırdık. Online olduğundan toplanmanın ve müsaitliğin zor olduğunu ancak kısa bir süre kaldığını çaba ve gayretimizi daha fazla ortaya koymamız gerektiği fikir grupta kabul gördü.
 
-Sprint 3
+## Sprint 3
 
-•	Sprint Notları: Product backlog item'lara tıklandığında görevlerin detayları okunabilir.
+## Sprint Notları: 
+Product backlog item'lara tıklandığında görevlerin detayları okunabilir.
 
-•	Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+## Sprint içinde tamamlanması tahmin edilen puan: 
+100 Puan
 
-•	Puan tamamlama mantığı: Proje boyunca toplam tamamlanması gereken 320 puanlık backlog bulunmaktadır. Sprintlerin içerik ağırlığına göre 3. Sprinte 100 puan verdik.
+## 	Puan tamamlama mantığı: 
+Proje boyunca toplam tamamlanması gereken 320 puanlık backlog bulunmaktadır. Sprintlerin içerik ağırlığına göre 3. Sprinte 100 puan verdik.
 
-•	Backlog düzeni ve Story seçimleri: Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmış ve tamamlanmıştır.
+## Backlog düzeni ve Story seçimleri: 
+Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmış ve tamamlanmıştır.
 
-Sprint Görev ve Puanları:
+## Sprint Görev ve Puanları:
 
 •	.apk çıktısı alınacak (20p)
 
@@ -166,12 +178,12 @@ Sprint Görev ve Puanları:
 
 
 
-•	Daily Scrum: 
+## 	Daily Scrum: 
 
-•	Sprint Review:
+## Sprint Review:
 
 3. sprint ve Bootcamp sürecinin sonuna geldik. Görevlerimize ve planladığımız şekilde oyunumuza son şeklini verdik. 100 puanlık son sprint görevlerini de başarıyla tamamladık. 
 
-•	Sprint Retrospective:
+## Sprint Retrospective:
 
 Oyunu oynanabilir ve bütüncül halde tamamlamanın vermiş olduğu mutlulukla son toplantımızı yaptık. İleride daha kapsamlı ve büyük projelerde bir arada olmak üzere iyi niyet ve temennilerle toplantımızı kapattık.
