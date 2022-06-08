@@ -53,10 +53,15 @@ https://trello.com/b/HWnsY0nl/akademi
 Sprint Görev ve Puanları:
 
 •	Grup üyeleri tanışma toplantısı, görev dağılımı ve iletişim kanalları seçimi (10p)
+
 •	GitHub kanal açılımı ve üye ekleme işlemi ve toplantısı (10p)
+
 •	Oyun türü seçimi  (20p)
+
 •	Oyun ismi, karakter isimleri ve logo seçimi (15p)
+
 •	Oyunda kullanılacak mekan ve karakter için asset seçimleri (30p)
+
 •	Oyun 2D veya 3D seçimi (15p)
 
 ![sprint 1](https://user-images.githubusercontent.com/104374444/172643562-eaa3c079-7121-4108-9a4a-df4c9be54cff.png)
@@ -88,11 +93,17 @@ Sprint 2
 •	Sprint Görev ve Puanları:
 
 •	Oyun giriş ve kapanış ekranları yapımı (10p)
+
 •	Oyun içi karakter yönlendirme sistemi yapımı (w a s d)  (15p)
+
 •	Sprint 2 planlama toplantıları zaman seçimleri (10p)
+
 •	Oyun ekranı buton tasarım ve yerleştirme çalışmaları (15p)
+
 •	Oyun içi animasyon müzikleri, genel oynanış müziği seçimi (10p)
+
 •	Oyun içerisindeki düşman tasarımları (20p)
+
 •	Oyun bölümleri tasarlama ve mekan seçimleri (40p)
 
 ![sprint 2 sou](https://user-images.githubusercontent.com/104374444/172643611-e1df4e6b-0942-4a73-a0e9-428777c306e2.png)
@@ -135,11 +146,17 @@ Sprint 3
 Sprint Görev ve Puanları:
 
 •	.apk çıktısı alınacak (20p)
+
 •	Oyun tanıtım videosu yapılacak (20p)
+
 •	Oyun son görünümü hakkında toplantı yapılacak (10p)
+
 •	Mobil optimizasyon yapılacak (15p)
+
 •	Takım toplantıları iletişim için devam edecek (10p)
+
 •	Oyun testleri yapılıp gerekli eksikler giderilecek (15p)
+
 •	Yeni fikirler olması halinde oyuna eklentiler ve güncellemeler yapılacak (10p)
 
 ![sprint 3](https://user-images.githubusercontent.com/104374444/172644122-93aacffe-6c8c-487e-a839-f6bf5b6f531b.png)
