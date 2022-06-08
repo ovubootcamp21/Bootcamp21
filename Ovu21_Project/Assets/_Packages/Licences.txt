@@ -1,0 +1,33 @@
+_____________________________________________________________________
+
+SOUNDTRACKS
+_____________________________________________________________________
+Main Menu:
+---------------------------------------------------------------------
+Title:	School
+Artist:	Komiku
+Length:	00:55
+Artist contact:	https://loyaltyfreakmusic.com/
+License:	Creative Commons CC0 Public Domainby
+Main Menu:
+---------------------------------------------------------------------
+Gameplay:
+---------------------------------------------------------------------
+Title:	The Bard’s Tale
+Artist:	RandomMind
+Length:	02:39
+Artist contact:	https://soundcloud.com/randommynd
+License:	Creative Commons CC0 Public Domainby
+_____________________________________________________________________
+
+MODELS
+_____________________________________________________________________
+
+Ultimate Platformer Pack by @Quaternius
+---------------------------------------------------------------------
+https://www.patreon.com/quaternius
+License:
+CC0 1.0 Universal (CC0 1.0) 
+Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+_____________________________________________________________________
